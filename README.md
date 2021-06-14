@@ -3,6 +3,7 @@
 - Class Date: June 14 - 18, 2021
 - Facilitator: @parkerbxyz
 
+
 ## Talk to Us!!
 
 If you have a question, or need assistance during class, **please create an issue and mention @parkerbxyz**.
@@ -64,9 +65,11 @@ Please take a moment to complete the class survey at: <https://www.surveymonkey.
 
 </details>
 
-### What's Next?
+### What's Next? :speak_no_evil::see_no_evil: :hear_no_evil:
 
 After you have completed this course, you are probably wondering where to go from here:
 
 - [GitHub Learning Lab](https://lab.github.com/): self paced courses with instant bot-assisted feedback.
 - [Join the open source community](https://github.com/open-source)
+
+### Test for PR :speak_no_evil::see_no_evil: :hear_no_evil:
